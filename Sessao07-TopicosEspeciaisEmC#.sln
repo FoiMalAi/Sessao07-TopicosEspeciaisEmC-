@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sessao07-TopicosEspeciaisEmC#", "Sessao07-TopicosEspeciaisEmC#\Sessao07-TopicosEspeciaisEmC#.csproj", "{32F84AED-F6F9-4E3B-B60E-B21E4C1AF3D7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{07FA20D4-61B7-4E6C-A5E9-047CCFE51777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondicionalTernaria", "CondicionalTernaria\CondicionalTernaria.csproj", "{EC7C04BD-595C-4D84-AA21-DB5B42B8D2AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{07FA20D4-61B7-4E6C-A5E9-047CCFE51777}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07FA20D4-61B7-4E6C-A5E9-047CCFE51777}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07FA20D4-61B7-4E6C-A5E9-047CCFE51777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC7C04BD-595C-4D84-AA21-DB5B42B8D2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7C04BD-595C-4D84-AA21-DB5B42B8D2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7C04BD-595C-4D84-AA21-DB5B42B8D2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7C04BD-595C-4D84-AA21-DB5B42B8D2AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
