@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\Sw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondicionalTernaria", "CondicionalTernaria\CondicionalTernaria.csproj", "{EC7C04BD-595C-4D84-AA21-DB5B42B8D2AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFunctions", "StringFunctions\StringFunctions.csproj", "{F8361BE7-FCCC-4C96-B997-114D34F0FD51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EC7C04BD-595C-4D84-AA21-DB5B42B8D2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC7C04BD-595C-4D84-AA21-DB5B42B8D2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC7C04BD-595C-4D84-AA21-DB5B42B8D2AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8361BE7-FCCC-4C96-B997-114D34F0FD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8361BE7-FCCC-4C96-B997-114D34F0FD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8361BE7-FCCC-4C96-B997-114D34F0FD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8361BE7-FCCC-4C96-B997-114D34F0FD51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
