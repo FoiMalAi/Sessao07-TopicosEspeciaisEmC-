@@ -19,6 +19,9 @@
             string s6 = original.Replace('a', 'x'); //substitui um string por outro.
             string s7 = original.Replace("abc", "xy");
 
+            bool b1 = string.IsNullOrEmpty(original); //Testa para saber se o campo está vazio ou não.
+            bool b2 = string.IsNullOrWhiteSpace(S2);
+
             Console.WriteLine("Original: -" + original + "-");
             Console.WriteLine("ToUpper: -" + S1 + "-");
             Console.WriteLine("ToLower: -" + S2 + "-");
@@ -28,6 +31,10 @@
             Console.WriteLine("SubString(3): " + s4 + "-");
             Console.WriteLine("SubString(3,5): " + s5 + "-");
             Console.WriteLine("Replace('a' , 'x'): -" + s6 + "-");
+            Console.WriteLine("Replace('abc', 'xy'): - " + s7);
+            Console.WriteLine("IsNullOrEmpty: - " + b1);
+            Console.WriteLine("IsNullOrWhiteSpace: -" + b2);
+
 
         }
     }
